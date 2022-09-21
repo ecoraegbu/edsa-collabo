@@ -2,4 +2,11 @@ Name: Emmanuel Oraegbu
 email: ecoraegbu@gmail.com
 phone: +2348100253033
 suggestions: 	I would like to suggest that we be more cautious
-		of spending too much time in out meetings.
+		of spending too much time in our meetings.
+
+Name: Itumeleng Kesebonye
+Email: tux.kesebonye@gmail.com
+Phone: +26773263070
+suggestions:	Email to participants the Google Meet link so that 
+		it can update to everyone's calendar the particular time 
+		of the meeting in their region.
