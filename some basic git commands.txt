@@ -1,0 +1,99 @@
+Intro Navigating the command prompt or shell
+cmd, pwd, cd, mkdir, rm/rmdir, dir/ls, cp, mv,
+
+A. Create a repository from scratch
+	`git init`
+B. Clone an existing repository
+	url = https://github.com/ecoraegbu/edsa-collabo.git
+	`git clone`, cloning with alias,
+C. Determine the status of a repository
+	`git status`
+D. Check working History 
+	command = `git log`
+
+	Navigating the log
+	to scroll down, press 
+	j or ↓ to move down one line at a time
+	d to move by half the page screen
+	f to move by a whole page screen
+
+	To scroll up, press
+	k or ↑ to move _up_ one line at a time
+	u to move by half the page screen
+	b to move by a whole page screen
+
+	To quit
+	press q to quit out of the log (returns to the regular command prompt)
+
+	Information gotten from the log includes
+	the SHA
+	the author
+	the date
+	and the message
+	
+	Using the oneline flag to change the way the log displays
+	`git log --oneline`
+	git online command will do the following
+	lists one commit per line
+	shows the first 7 characters of the commit's SHA
+	shows the commit's message
+E. Check modified files
+	`git log --stat`
+	--stat will give the following information
+	displays the file(s) that have been modified
+	displays the number of lines that have been added/removed
+	displays a summary line with the total number of modified files and lines that have been added/removed
+
+F. Viewing file changes
+	`git log --patch | git log --p`
+	
+	Information gotten from git log --patch flag include the following
+
+	🔵 - the file that is being displayed
+	🔶 - the hash of the first version of the file and the hash of the second version of the file
+	not usually important, so it's safe to ignore
+	❤️ - the old version and current version of the file
+	🔍 - the lines where the file is added and how many lines there are
+	-15,83 indicates that the old version (represented by the -) started at line 15 and that the file had 83 lines
+	+15,85 indicates that the current version (represented by the +) starts at line 15 and that there are now 85 lines...
+	these 85 lines are shown in the patch below
+	✏️ - the actual changes made in the commit
+	lines that are red and start with a minus (-) were in the original version of the file but have been removed by the commit
+	lines that are green and start with a plus (+) are new lines that have been added in the commit
+
+G. Viewing specific commits
+	`git show` used with SHA eg. `git show fdf5493`
+	Information gotten from the git show command includes
+	the commit
+	the author
+	the date
+	the commit message
+	the patch information
+
+
+	However, git show can be combined with most of the other flags we've looked at:
+	--stat - to show the how many files were changed and the number of lines that were added/removed
+	-p or --patch - this the default, but if --stat is used, the patch won't display, so pass -p to add it again
+	-w - to ignore changes to whitespace
+
+
+H. Adding commits to Repository
+	git add: The git add command is used to move files from the Working Directory to the Staging Index
+	usage: git add filename | git add .(for all)
+	run the git status command here to see the files added to the staging index.
+	to remove files from the staging index use the -rm flag. git rm --cached | git rm --cached <filename>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
