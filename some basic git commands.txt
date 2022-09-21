@@ -82,6 +82,15 @@ H. Adding commits to Repository
 	usage: git add filename | git add .(for all)
 	run the git status command here to see the files added to the staging index.
 	to remove files from the staging index use the -rm flag. git rm --cached | git rm --cached <filename>
+	
+	git commit: The git commit command is used to prepare the files in the staging index for moving to the repository. 
+	the -m flag initializes the command for adding a commit message which is important.
+	a commit message gives a narration of what current activity (changes made to the file) is taking place.
+	usage: `git commit -m "write your commit message here"`
+
+	git push
+	finally, the git push commands simply uploads the new changes to the repository.
+	usage: `git push`
 
 NOTE: when changing configurations be careful to use the appropriate flags.
 
