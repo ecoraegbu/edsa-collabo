@@ -83,7 +83,7 @@ H. Adding commits to Repository
 	run the git status command here to see the files added to the staging index.
 	to remove files from the staging index use the -rm flag. git rm --cached | git rm --cached <filename>
 
-
+NOTE: when changing configurations be careful to use the appropriate flags.
 
 
 
