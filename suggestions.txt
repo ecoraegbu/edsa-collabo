@@ -10,3 +10,10 @@ Phone: +26773263070
 suggestions:	Email to participants the Google Meet link so that 
 		it can update to everyone's calendar the particular time 
 		of the meeting in their region.
+
+Name: Peter Okeke
+Email: peterokekec@gmail.com
+Phone: +2348093224263
+suggestions:	The text file on "some basic git commands" was very helpful
+		and similar files can be a very useful guide, especially 
+		for beginners, if sustained. 
