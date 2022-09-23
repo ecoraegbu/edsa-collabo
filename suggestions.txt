@@ -17,3 +17,13 @@ Phone: +2348093224263
 suggestions:	The text file on "some basic git commands" was very helpful
 		and similar files can be a very useful guide, especially 
 		for beginners, if sustained. 
+
+
+Name: Nnaemeka Onyebueke
+Email: onyebuekennaemeka@yahoo.com
+Phone: +2347037983428
+suggestions:	The "some basic git commands" file was a great resource; 
+		i will suggest we update it with definition of those navigation 
+		commands. It will also be great to contain ground up description
+		of how to begin working with git. I initially struggled with 
+		cloning the repo.
