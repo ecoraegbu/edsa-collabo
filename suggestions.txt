@@ -42,6 +42,9 @@ Phone: 08130853303
 Suggestions: I will suggest we find a way to record our meeting. It has a way of helping to
 	     keep tabs with developments.
 	     Also, we can create a form of reporting system that helps to track progress on projects
-             Finally, the document attached is a great resource. Kudos to the team.
+             Finally, the document attached is a great resource. Kudos to the team. Though additions
+	     can be made about how to use git fetch, pull and checkout. I will be glad to have some inputs concerning that.
+	     Thanks
+	
              
 		
