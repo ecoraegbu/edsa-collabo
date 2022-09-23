@@ -27,3 +27,13 @@ suggestions:	The "some basic git commands" file was a great resource;
 		commands. It will also be great to contain ground up description
 		of how to begin working with git. I initially struggled with 
 		cloning the repo.
+		
+Name : Chinonso Agulonu
+Email: chyagulonu@gmail.com
+Phone: 08064833870
+Suggestions: I strongly recommend sharing of ideas and materials.
+             Updating the "Basic git commands" sheet with its definitions and functionality.
+             Simplified way of teaching to ensure beginners are carried along as well.
+             Tasking us to do real time practical-(test) after every coaching session.
+             
+		
