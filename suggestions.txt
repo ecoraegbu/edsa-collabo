@@ -51,7 +51,7 @@ Name: Chima Enyeribe (@JasperZeroes)
 Email: Jasperobed@gmail.com
 Mobile: +2348169953309
 Suggestions: To ensure effective communication during meetings, visual thinking tools are a MUST have
-as they play important roles in ideation, workflow and collaboration. 
-The use of virtual whiteboard such as miro would come in handy.
-Also there should be decentralization of ideas as we proceed. In other words, ideas should
-not just flow in and from one direction in our forth coming projects. 
+	as they play important roles in ideation, workflow and collaboration. 
+	The use of virtual whiteboard such as miro would come in handy.
+	Also there should be decentralization of ideas as we proceed. In other words, ideas should
+	not just flow in and from one direction in our forth coming projects. 
